@@ -1,6 +1,6 @@
 # Test Repository
 
-## This is just to get aquainted with GitHub Workflow.
+## This repository is to get beginner's hands on working in GitHub.
 
 ### Contributors
 - Ashish Chawda
