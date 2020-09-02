@@ -1,4 +1,4 @@
-# Test Repository
+# Learning github
 
 ## This repository is to get beginner's hands on working in GitHub.
 
